@@ -1,0 +1,1 @@
+module.exports.Category = require("./product.model");

@@ -1,0 +1,1 @@
+module.exports.productVallidation=require("../validation/product.validation")
